@@ -1,4 +1,4 @@
-# Subscription API 📦
+# Spring boot API & security 📦
 
 A simple CRUD REST API built with Spring Boot for managing subscriptions.
 
